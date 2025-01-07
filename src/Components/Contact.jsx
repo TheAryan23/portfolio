@@ -169,14 +169,14 @@ function Contact() {
           <CgMail size={44} />
         </a>
         <a
-          href="https://www.linkedin.com/in/shivraj-kolwankar0124"
+          href="https://www.linkedin.com/in/aryan-warange-b3321125a"
           target="_blank"
           className="  text-lg"
         >
           <BsLinkedin size={32} />
         </a>
         <a
-          href="https://github.com/shivraj0124"
+          href="https://github.com/TheAryan23"
           target="_blank"
           className="  text-lg"
         >
