@@ -52,9 +52,9 @@ function Home() {
             Web <span className="text-cyan-600 ">{displayedText}</span>
           </h1>
           <p>
-            a passionate web developer skilled in React, Tailwind CSS, Node.js
-            and MongoDB. I specialize in creating user-friendly applications
-            that deliver seamless experiences
+            A web developer who is passionate in designing user friendly interface and building modern,
+            responsive frontends.I work to develop visually appealing and efficient application 
+            that offer a smooth and engaging user experience , blending functionality with aesthetic appeal.
           </p>
           <div className="flex flex-row justify-center items-center gap-4 mt-5 md:mt-10">
             <a

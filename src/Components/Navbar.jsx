@@ -102,14 +102,14 @@ function Navbar() {
                 Education
               </a>
             </li>
-            {/* <li className="md:ml-8 md:my-0 my-2">
+            <li className="md:ml-8 md:my-0 my-2">
               <a
                 className="  hover:text-cyan-600 duration-500 cursor-pointer"
                 onClick={() => scrollToProjects()}
               >
                 Projects
               </a>
-            </li> */}
+            </li>
             <li className="md:ml-8 md:my-0 my-2">
               <a
                 className="  hover:text-cyan-600 duration-500 cursor-pointer"

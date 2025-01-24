@@ -18,7 +18,7 @@ function Skills() {
                             <h2 className='text-xl font-bold '>Html</h2>
                         </div>
                      
-                     
+                        
                         <div className={`flex flex-col items-center rounded-md w-[100%] px-10 py-5 shadow-xl skill-div text-cyan-700 hover:text-blue-600 cursor-pointer  ${theme === 'dark' ? ' bg-[#262525]':'bg-white'}`}>
                             <BiLogoCss3 size={60} />
                             <h2 className='text-xl font-bold '>Css</h2>

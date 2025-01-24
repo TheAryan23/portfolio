@@ -29,7 +29,7 @@ function About() {
             js.
           </p>
           <div className="text-sm mt-5 flex flex-row gap-4 ">
-           <a href="https://drive.google.com/file/d/1sItF9TUPAUqL-0xBI91GXcSse8G_pWmb/view?usp=drivesdk">
+           <a href="https://drive.google.com/file/d/1Qu7ZNv82sm6oJiehpSj84WB9E6YMgSd8/view?usp=drivesdk">
             <button
               className="py-1 px-3 hover:bg-cyan-500 hover:text-white border-2 border-cyan-500 text-cyan-600 font-semibold rounded-md"
 

@@ -13,62 +13,62 @@ import ProjectCard from "./ProjectCard";
 
 function Project() {
   const allProjects = [
-    // {
-    //   id: 1,
-    //   ProjectName: "IT-DEPT",
-    //   ProjectLink: "https://information-technology.netlify.app",
-    //   GithubLink: "https://github.com/shivraj0124/it_dept_frontend",
-    //   Image: it_dept,
-    //   Description:
-    //     "The website of IT Department of Government Polytechnic Mumbai, which includes all the information about department and it provides dashboard for Admin ,Faculties and Students.",
-    //   Technologies: ["React", "Tailwind CSS", "Node js", "MongoDB"],
-    // },
-    // {
-    //   id: 2,
-    //   ProjectName: "ChatEase",
-    //   ProjectLink: "https://chatease24.netlify.app",
-    //   GithubLink: "https://github.com/shivraj0124/chatFrontend",
-    //   Image: chatEase,
-    //   Description:
-    //     "ChatEase is a real-time chat app for effortless communication. Create accounts, join groups, and enjoy instant messaging with a seamless, user-friendly interface.",
-    //   Technologies: ["React", "Tailwind CSS", "Node js", "MongoDB","Socket.io"],
-    // },
-    // {
-    //   id: 3,
-    //   ProjectName: "ByteStudy",
-    //   ProjectLink: "https://bytestudy.netlify.app",
-    //   GithubLink: "https://github.com/shivraj0124/ByteStudy",
-    //   Image: byteStudy,
-    //   Description:"We build this website for Government Polytechnic Mumbai Students. Here we provide notes, question papers, experiments of all subjects of each semester.",
-    //   Technologies: ["React", "Tailwind CSS", "Node js", "MongoDB"],
-    // },
-    // {
-    //   id: 4,
-    //   ProjectName: "NASA AE",
-    //   ProjectLink: "https://nasa-ae-24.netlify.app",
-    //   GithubLink: "https://github.com/shivraj0124/NASA-AE",
-    //   Image: nasaAE,
-    //   Description:"This website contains data fetch from NASA APIs. It contains Image Library by NASA and Astronomy Picture of th Day.",
-    //   Technologies: ["React", "Tailwind CSS"],
-    // },
-    // {
-    //   id: 5,
-    //   ProjectName: "imageGallery",
-    //   ProjectLink: "https://img-gallery-five.vercel.app",
-    //   GithubLink: "https://github.com/shivraj0124/ImageSearcher-App",
-    //   Image: imageGallery,
-    //   Description:"This is image search app ,You can search images of nature, smartphones, computers, sports, images, etc and you can also download images.",
-    //   Technologies: ["React", "Bootstrap"],
-    // },
-    // {
-    //   id: 6,
-    //   ProjectName: "Muxic",
-    //   ProjectLink: "https://music-app-sk.netlify.app",
-    //   GithubLink: "https://github.com/shivraj0124/Music-App",
-    //   Image: muxic,
-    //   Description:"This is a website where you can listen different types of song like Hindi, English, Marathi",
-    //   Technologies: ["React", "Bootstrap"],
-    // },
+    {
+      id: 1,
+      ProjectName: "IT-DEPT",
+      ProjectLink: "",
+      GithubLink: "",
+      Image: it_dept,
+      Description:
+        "The website of IT Department of Government Polytechnic Mumbai, which includes all the information about department and it provides dashboard for Admin ,Faculties and Students.",
+      Technologies: ["React", "Tailwind CSS", "Node js", "MongoDB"],
+    },
+    {
+      id: 2,
+      ProjectName: "ChatEase",
+      ProjectLink: "",
+      GithubLink: "",
+      Image: chatEase,
+      Description:
+        "ChatEase is a real-time chat app for effortless communication. Create accounts, join groups, and enjoy instant messaging with a seamless, user-friendly interface.",
+      Technologies: ["React", "Tailwind CSS", "Node js", "MongoDB","Socket.io"],
+    },
+    {
+      id: 3,
+      ProjectName: "ByteStudy",
+      ProjectLink: "",
+      GithubLink: "",
+      Image: byteStudy,
+      Description:"We build this website for Government Polytechnic Mumbai Students. Here we provide notes, question papers, experiments of all subjects of each semester.",
+      Technologies: ["React", "Tailwind CSS", "Node js", "MongoDB"],
+    },
+    {
+      id: 4,
+      ProjectName: "NASA AE",
+      ProjectLink: "",
+      GithubLink: "",
+      Image: nasaAE,
+      Description:"This website contains data fetch from NASA APIs. It contains Image Library by NASA and Astronomy Picture of th Day.",
+      Technologies: ["React", "Tailwind CSS"],
+    },
+    {
+      id: 5,
+      ProjectName: "imageGallery",
+      ProjectLink: "",
+      GithubLink: "",
+      Image: imageGallery,
+      Description:"This is image search app ,You can search images of nature, smartphones, computers, sports, images, etc and you can also download images.",
+      Technologies: ["React", "Bootstrap"],
+    },
+    {
+      id: 6,
+      ProjectName: "Muxic",
+      ProjectLink: "",
+      GithubLink: "",
+      Image: muxic,
+      Description:"This is a website where you can listen different types of song like Hindi, English, Marathi",
+      Technologies: ["React", "Bootstrap"],
+    },
 
   ];
   const { theme } = themeHook();
