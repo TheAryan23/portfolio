@@ -28,7 +28,7 @@ function App() {
             <About />
             <Education />
             <Skills />
-            
+            <Project/>
             <Contact />
             <Footer />
           <Toaster />
