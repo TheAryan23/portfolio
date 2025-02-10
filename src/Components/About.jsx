@@ -1,13 +1,11 @@
 import React from "react";
 import img1 from "../assets/home-image.png";
-import resume from "../assets/Shivraj_Kolwankar_Resume.pdf";
-import { saveAs } from "file-saver";
+
+
 import themeHook from "./ThemeContext";
 function About() {
   const { theme, changeTheme } = themeHook();
-  const downloadResume = () => {
-    saveAs(resume, "Shivraj Kolwankar Resume");
-  };
+  
   return (
     <div
       className={`w-[100%] max-md:px-4 px-[10%] max-md:py-5 md:py-28 z-[-2] ${
